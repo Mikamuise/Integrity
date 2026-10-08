@@ -136,6 +136,7 @@ flowchart TB
         P1[智慧试验室平台]
         subgraph P2[委托系统]
                  P3[机器人调度系统]
+        end
     end
     subgraph 网络层
         N1[无线网络覆盖]
