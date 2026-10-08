@@ -133,8 +133,8 @@ flowchart TB
         A5[报告自动生成]
     end
     subgraph 平台层
-        P1[智慧试验室平台]
-        subgraph P2[委托系统]
+        subgraph P1[智慧试验室平台]
+                 P2[委托系统]
                  P3[机器人调度系统]
         end
     end
